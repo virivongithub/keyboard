@@ -13,3 +13,4 @@ switches: [gateron (i chose black)](https://www.aliexpress.com/item/33017468389.
 
 keycaps: [choose whatever you like i chose these ones](https://www.aliexpress.com/item/33059907444.html?spm=a2g0o.productlist.0.0.5b2e4b35dIFLSl&algo_pvid=7aea38bb-ae75-4a95-a1a6-ee76fe0a266d&algo_expid=7aea38bb-ae75-4a95-a1a6-ee76fe0a266d-39&btsid=0b0a22a415856093887214811e2ee2&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_)
 
+battery: [(only if you want bluetooth otherwise it isnt that important)](https://www.aliexpress.com/item/32861540895.html?aff_platform=product&sk=ba9A6PMM&aff_trace_key=d2dacf87ad4f47ea8e3fc580af4a2711-1585610140938-02604-ba9A6PMM&terminal_id=d7be654551bf4f83bfe515b8a00ca22d&aff_request_id=d2dacf87ad4f47ea8e3fc580af4a2711-1585610140938-02604-ba9A6PMM)
